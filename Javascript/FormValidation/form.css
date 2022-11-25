@@ -1,0 +1,8 @@
+.box{
+    position: absolute;
+    top: 15%;
+    left:35%;
+    width: 30%;
+    height:60%;
+    background-color: rgba(151, 156, 197, 0.555);
+}
