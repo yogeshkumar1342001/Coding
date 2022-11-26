@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<h1>Form</h1>
+<form>
+<label>Name :</label>
+<input type="text" placeholder="Your Sweet Name">
+<br><br>
+<label>Email :</label>
+<input type="email" placeholder="Your email">
+<br><br>
+<div>
+<label>Password :</label>
+<input type="Password" placeholder="Your Personal Password">
+</div>
+<br>
+<label>Gender :</label>
+<select name="gen">
+<option value="Male">Male</option>
+<option value="Female">Female</option>
+<option value="Others">Others</option>
+</select>
+<br><br>
+<label>DOB :</label>
+<input type="date">
+<br><br>
+<label>Mobile Number :</label>
+<input type="number" placeholder="Enter your mobile number">
+<div>
+<br>
+<label>Address :</label>
+<textarea></textarea>
+</div>
+<div>
+<br>
+<label>Feedback :</label>
+<!--input type="text"-->
+<textarea> </textarea>
+</div>
+<br>
+<input type="submit">
+</form>
+</html>

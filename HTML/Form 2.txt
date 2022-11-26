@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>index</title>
+</head>
+<body>
+<h1>Website Link</h1>
+<p>
+HTML Examples
+In this <a href="https://www.w3schools.com/html/" target="blank"> W3Schools HTML tutorial</a>, you will find more than 200 examples. With our online Try it Yourself" editor, you can edit and test each example yourself!
+</p>
+<h1>
+Table
+</h1>
+<table border=1;>
+<head>
+<tr>
+<th>Name</th>
+<th>Email</th>
+<th>Number</th>
+</tr>
+</head>
+<body>
+<tr>
+<td>Yogesh</td>
+<td>yogeshkumar1342001@gmail.com</td>
+<td>9659620189</td>
+</tr>
+</body>
+</table>
+<h1>Form</h1>
+<form>
+<label>Name :</label>
+<input type="text" placeholder="Your Sweet Name">
+<br><br>
+<label>Email :</label>
+<input type="email" placeholder="Your email">
+<br><br>
+<div>
+<label>Password :</label>
+<input type="Password" placeholder="Your Personal Password">
+</div>
+<br>
+<label>Gender :</label>
+<select name="gen">
+<option value="Male">Male</option>
+<option value="Female">Female</option>
+<option value="Others">Others</option>
+</select>
+<br><br>
+<label>DOB :</label>
+<input type="date">
+<br><br>
+<label>Mobile Number :</label>
+<input type="number" placeholder="Enter your mobile number">
+<div>
+<br>
+<label>Address :</label>
+<textarea></textarea>
+</div>
+<div>
+<br>
+<label>Feedback :</label>
+<textarea> </textarea>
+</div>
+<br>
+<input type="submit">
+<br><br>
+<p>If any problem occurs</p>
+<h3><a href="mailto:yogeshkumar1342001@gmail.com">Contact us Email</h3>
+<h3><a href="tel:9659620189">Contact us Phone Number</a></h3>
+</form>
+<h1>Important Points</h1>
+<ol>
+<li>Hi</li>
+<li>Hello</li>
+</ol>
+</html>
+
